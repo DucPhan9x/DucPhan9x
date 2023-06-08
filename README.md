@@ -12,6 +12,7 @@
 - TypeScript
 - Nodejs
 - ReactJS
+- C#
 - Web Development
 - MongoDB
 - MySQL
